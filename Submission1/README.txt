@@ -1,3 +1,10 @@
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/6971818719hppfmrpctmqv
+
+
+
+
+
 Group Number:
 4
 
